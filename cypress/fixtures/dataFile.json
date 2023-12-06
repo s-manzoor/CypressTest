@@ -1,0 +1,19 @@
+{
+  "url" : "https://www.google.com/",
+  "mainURL" : "https://www.guestreservations.com/bellagio-las-vegas/booking",
+  "checkinDate" : "3",
+  "checkoutDate" : "5",
+  "firstName" : "Saim",
+  "lastName" : "Williom",
+  "email": "saim@gmail.com",
+  "phone": "03053425671",
+  "address": "Stree B, Exon society",
+  "city": "Montgomery",
+  "zipCode": "36064",
+  "cardNumber": "4242424242424242",
+  "expiryYear" : "2027",
+  "securityCode": "450",
+  "destination" : "Miami",
+  "hotel" : "Art Graffiti"
+
+}
